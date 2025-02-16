@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm blevinsozvfrobert686
 
-<!--
-**blevinsozvfrobert686/blevinsozvfrobert686** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎳 🛼 🎽 A beginner in startup culture 🎳 🛼 🎽
 
-Here are some ideas to get you started:
+## About Me
+🚵 🎣 Obsessed with artificial intelligence 🚵 🎣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎯 🥊 🏊 A nerd in robotics 🎯 🥊 🏊
+
+### Fun Facts
+🎻 🎸 🚣 Enthusiastic about artificial intelligence 🎻 🎸 🚣
+
+---
+🎭 🏒 🛹 🏑 🎧 Thanks for visiting my profile! 🎯 🎷 🎱 🛼 🏒
